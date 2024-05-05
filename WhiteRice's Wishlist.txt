@@ -1,0 +1,539 @@
+title:WhiteRice's Wishlist
+description:Updated to Into The Light
+
+// Long Arm ()
+dimwishlist:item=8293111&perks=
+
+
+// Raconteur ()
+dimwishlist:item=45643573&perks=
+
+
+// Nation of Beasts ()
+dimwishlist:item=70083888&perks=
+
+
+// Supercluster ()
+dimwishlist:item=92459755&perks=
+
+
+// Word of Crota ()
+dimwishlist:item=120706239&perks=
+
+
+// Fang of Ir Yût (Adept) ()
+dimwishlist:item=128782990&perks=
+
+
+// Nessa's Oblation ()
+dimwishlist:item=135029084&perks=
+
+
+// Pre Astyanax IV ()
+dimwishlist:item=192784503&perks=
+
+
+// Whispering Slab ()
+dimwishlist:item=211938782&perks=
+
+
+// Buzzard ()
+dimwishlist:item=213264394&perks=
+
+
+// Mykel's Reverence ()
+dimwishlist:item=231031173&perks=
+
+
+// Under Your Skin ()
+dimwishlist:item=232928045&perks=
+
+
+// Rufus's Fury (Adept) ()
+dimwishlist:item=342514437&perks=
+
+
+// Song of Ir Yût (Adept) ()
+dimwishlist:item=407511664&perks=
+
+
+// Duty Bound ()
+dimwishlist:item=435216110&perks=
+
+
+// Darkest Before ()
+dimwishlist:item=435821040&perks=
+
+
+// Relentless ()
+dimwishlist:item=435821041&perks=
+
+
+// Rufus's Fury ()
+dimwishlist:item=484515708&perks=
+
+
+// Koraxis's Distress (Adept) ()
+dimwishlist:item=495442100&perks=
+
+
+// Pre Astyanax IV (Adept) ()
+dimwishlist:item=496556698&perks=
+
+
+// Nessa's Oblation (Adept) ()
+dimwishlist:item=522366885&perks=
+
+
+// Forbearance ()
+dimwishlist:item=568611921&perks=
+
+
+// The Mountaintop ()
+dimwishlist:item=568611922&perks=
+
+
+// Edge Transit ()
+dimwishlist:item=568611923&perks=
+
+
+// Oversoul Edict (Adept) ()
+dimwishlist:item=578105049&perks=
+
+
+// Sojourner's Tale ()
+dimwishlist:item=599895591&perks=
+
+
+// Forbearance ()
+dimwishlist:item=613334176&perks=
+
+
+// Falling Guillotine ()
+dimwishlist:item=614426548&perks=
+
+
+// Hullabaloo ()
+dimwishlist:item=657927352&perks=
+
+
+// Persuader ()
+dimwishlist:item=781498181&perks=
+
+
+// Vengeful Whisper ()
+dimwishlist:item=839344841&perks=
+
+
+// Cold Comfort ()
+dimwishlist:item=839786290&perks=
+
+
+// Marsilion-C ()
+dimwishlist:item=867154247&perks=
+
+
+// Point of the Stag ()
+dimwishlist:item=888872889&perks=
+
+
+// Buzzard (Adept) ()
+dimwishlist:item=927835311&perks=
+
+
+// Wild Style (Adept) ()
+dimwishlist:item=959037361&perks=
+
+
+// The Recluse ()
+dimwishlist:item=1050806815&perks=
+
+
+// BrayTech Osprey (Adept) ()
+dimwishlist:item=1064132738&perks=
+
+
+// Rapacious Appetite ()
+dimwishlist:item=1081724548&perks=
+
+
+// Oversoul Edict ()
+dimwishlist:item=1098171824&perks=
+
+
+// New Pacific Epitaph ()
+dimwishlist:item=1125217994&perks=
+
+
+// Duty Bound (Adept) ()
+dimwishlist:item=1135050595&perks=
+
+
+// Dark Decider ()
+dimwishlist:item=1144014195&perks=
+
+
+// IKELOS_SG_v1.0.3 ()
+dimwishlist:item=1168625549&perks=
+
+
+// Doom of Chelchis (Harrowed) ()
+dimwishlist:item=1184692845&perks=
+
+
+// Tusk of the Boar ()
+dimwishlist:item=1218113510&perks=
+
+
+// Iterative Loop ()
+dimwishlist:item=1289796511&perks=
+
+
+// The Summoner (Adept) ()
+dimwishlist:item=1292594730&perks=
+
+
+// Brigand's Law ()
+dimwishlist:item=1298815317&perks=
+
+
+// Dimensional Hypotrochoid ()
+dimwishlist:item=1311684613&perks=
+
+
+// Wild Style ()
+dimwishlist:item=1332123064&perks=
+
+
+// The Slammer (Adept) ()
+dimwishlist:item=1354727549&perks=
+
+
+// Trustee ()
+dimwishlist:item=1392919471&perks=
+
+
+// Fang of Ir Yût ()
+dimwishlist:item=1432682459&perks=
+
+
+// Hung Jury SR4 ()
+dimwishlist:item=1453235079&perks=
+
+
+// Acasia's Dejection ()
+dimwishlist:item=1471212226&perks=
+
+
+// Briar's Contempt ()
+dimwishlist:item=1491665733&perks=
+
+
+// Doomed Petitioner ()
+dimwishlist:item=1501688142&perks=
+
+
+// Recurrent Impact ()
+dimwishlist:item=1572896086&perks=
+
+
+// Harsh Language ()
+dimwishlist:item=1606497639&perks=
+
+
+// Wastelander M5 ()
+dimwishlist:item=1679868061&perks=
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=
+
+
+// Disparity ()
+dimwishlist:item=1751893422&perks=
+
+
+// A Distant Pull ()
+dimwishlist:item=1769847435&perks=
+
+
+// Falling Guillotine ()
+dimwishlist:item=1815105249&perks=
+
+
+// The Summoner ()
+dimwishlist:item=1820994983&perks=
+
+
+// Jararaca-3sr ()
+dimwishlist:item=1851521408&perks=
+
+
+// Apex Predator ()
+dimwishlist:item=1851777734&perks=
+
+
+// Wendigo GL3 ()
+dimwishlist:item=1854753404&perks=
+
+
+// Kept Confidence ()
+dimwishlist:item=1875512595&perks=
+
+
+// Hammerhead ()
+dimwishlist:item=1896309757&perks=
+
+
+// Doom of Chelchis ()
+dimwishlist:item=1937552980&perks=
+
+
+// Luna Regolith III ()
+dimwishlist:item=1948035256&perks=
+
+
+// Mykel's Reverence (Adept) ()
+dimwishlist:item=1986287028&perks=
+
+
+// Likely Suspect ()
+dimwishlist:item=1994645182&perks=
+
+
+// Lingering Dread ()
+dimwishlist:item=2026087437&perks=
+
+
+// Salvager's Salvo ()
+dimwishlist:item=2060863616&perks=
+
+
+// IKELOS_SMG_v1.0.3 ()
+dimwishlist:item=2149683300&perks=
+
+
+// Apostate ()
+dimwishlist:item=2164448701&perks=
+
+
+// Fixed Odds ()
+dimwishlist:item=2194955522&perks=
+
+
+// Fire and Forget ()
+dimwishlist:item=2272041093&perks=
+
+
+// IKELOS_SR_v1.0.3 ()
+dimwishlist:item=2302346155&perks=
+
+
+// Wilderflight ()
+dimwishlist:item=2306182339&perks=
+
+
+// Hollow Denial ()
+dimwishlist:item=2323544076&perks=
+
+
+// Blast Furnace ()
+dimwishlist:item=2372514508&perks=
+
+
+// Elsie's Rifle ()
+dimwishlist:item=2372514509&perks=
+
+
+// Incisor (Adept) ()
+dimwishlist:item=2421180981&perks=
+
+
+// Cartesian Coordinate ()
+dimwishlist:item=2481881293&perks=
+
+
+// No Reprieve ()
+dimwishlist:item=2531963421&perks=
+
+
+// Scatter Signal ()
+dimwishlist:item=2558925366&perks=
+
+
+// Fioritura-59 ()
+dimwishlist:item=2566006935&perks=
+
+
+// Basso Ostinato ()
+dimwishlist:item=2573900604&perks=
+
+
+// Riptide ()
+dimwishlist:item=2715240478&perks=
+
+
+// Midnight Coup ()
+dimwishlist:item=2763843898&perks=
+
+
+// Luna's Howl ()
+dimwishlist:item=2763843899&perks=
+
+
+// Naeem's Lance ()
+dimwishlist:item=2806569825&perks=
+
+
+// Path of Least Resistance ()
+dimwishlist:item=2827764482&perks=
+
+
+// Song of Ir Yût ()
+dimwishlist:item=2828278545&perks=
+
+
+// Krait ()
+dimwishlist:item=2852052802&perks=
+
+
+// The Supremacy ()
+dimwishlist:item=2884596447&perks=
+
+
+// The Slammer ()
+dimwishlist:item=2889501828&perks=
+
+
+// Briar's Contempt (Adept) ()
+dimwishlist:item=2890082420&perks=
+
+
+// Semiotician ()
+dimwishlist:item=2922749929&perks=
+
+
+// Judgment ()
+dimwishlist:item=2969415423&perks=
+
+
+// Koraxis's Distress ()
+dimwishlist:item=2972949637&perks=
+
+
+// Succession ()
+dimwishlist:item=2990047042&perks=
+
+
+// Liminal Vigil ()
+dimwishlist:item=3138208275&perks=
+
+
+// Swordbreaker ()
+dimwishlist:item=3163900678&perks=
+
+
+// The Immortal (Adept) ()
+dimwishlist:item=3193598749&perks=
+
+
+// Multimach CCX ()
+dimwishlist:item=3211624072&perks=
+
+
+// No Survivors ()
+dimwishlist:item=3262192268&perks=
+
+
+// Bequest ()
+dimwishlist:item=3366545721&perks=
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=
+
+
+// Frozen Orbit ()
+dimwishlist:item=3473290087&perks=
+
+
+// Acasia's Dejection (Adept) ()
+dimwishlist:item=3493494807&perks=
+
+
+// Typhon GL5 ()
+dimwishlist:item=3568377122&perks=
+
+
+// Ros Arago IV ()
+dimwishlist:item=3583275737&perks=
+
+
+// Succession ()
+dimwishlist:item=3612338554&perks=
+
+
+// First In, Last Out ()
+dimwishlist:item=3616586446&perks=
+
+
+// Stormchaser ()
+dimwishlist:item=3652506829&perks=
+
+
+// BrayTech Osprey ()
+dimwishlist:item=3667553455&perks=
+
+
+// Dead Weight ()
+dimwishlist:item=3738678140&perks=
+
+
+// Mechabre ()
+dimwishlist:item=3871226707&perks=
+
+
+// Wendigo GL3 (Adept) ()
+dimwishlist:item=3915197957&perks=
+
+
+// Volta Bracket ()
+dimwishlist:item=3920310144&perks=
+
+
+// Word of Crota (Adept) ()
+dimwishlist:item=3926103986&perks=
+
+
+// Heliocentric QSc ()
+dimwishlist:item=3998080529&perks=
+
+
+// Forbearance (Adept) ()
+dimwishlist:item=4038592169&perks=
+
+
+// The Immortal ()
+dimwishlist:item=4039572196&perks=
+
+
+// Explosive Personality ()
+dimwishlist:item=4096943616&perks=
+
+
+// Appetence ()
+dimwishlist:item=4153087276&perks=
+
+
+// Marcato-45 ()
+dimwishlist:item=4233375372&perks=
+
+
+// Heritage ()
+dimwishlist:item=4248569242&perks=
+
+
+// Incisor ()
+dimwishlist:item=4248997900&perks=
+
+

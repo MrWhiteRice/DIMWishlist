@@ -33,6 +33,14 @@ dimwishlist:item=135029084&perks=
 dimwishlist:item=192784503&perks=
 
 
+// Hung Jury SR4 ()
+dimwishlist:item=205225492&perks=
+
+
+// Hammerhead ()
+dimwishlist:item=211732170&perks=
+
+
 // Whispering Slab ()
 dimwishlist:item=211938782&perks=
 
@@ -47,6 +55,14 @@ dimwishlist:item=231031173&perks=
 
 // Under Your Skin ()
 dimwishlist:item=232928045&perks=
+
+
+// Falling Guillotine ()
+dimwishlist:item=243425374&perks=
+
+
+// Warden's Law (Adept) ()
+dimwishlist:item=267089201&perks=
 
 
 // Rufus's Fury (Adept) ()
@@ -95,6 +111,10 @@ dimwishlist:item=568611922&perks=
 
 // Edge Transit ()
 dimwishlist:item=568611923&perks=
+
+
+// Succession ()
+dimwishlist:item=570866107&perks=
 
 
 // Oversoul Edict (Adept) ()
@@ -185,6 +205,10 @@ dimwishlist:item=1184692845&perks=
 dimwishlist:item=1218113510&perks=
 
 
+// Mechabre ()
+dimwishlist:item=1280894514&perks=
+
+
 // Iterative Loop ()
 dimwishlist:item=1289796511&perks=
 
@@ -265,6 +289,10 @@ dimwishlist:item=1815105249&perks=
 dimwishlist:item=1820994983&perks=
 
 
+// Warden's Law ()
+dimwishlist:item=1821529912&perks=
+
+
 // Jararaca-3sr ()
 dimwishlist:item=1851521408&perks=
 
@@ -321,6 +349,10 @@ dimwishlist:item=2164448701&perks=
 dimwishlist:item=2194955522&perks=
 
 
+// Edge Transit ()
+dimwishlist:item=2228325504&perks=
+
+
 // Fire and Forget ()
 dimwishlist:item=2272041093&perks=
 
@@ -349,12 +381,24 @@ dimwishlist:item=2372514509&perks=
 dimwishlist:item=2421180981&perks=
 
 
+// Forbearance ()
+dimwishlist:item=2480074702&perks=
+
+
 // Cartesian Coordinate ()
 dimwishlist:item=2481881293&perks=
 
 
+// Midnight Coup ()
+dimwishlist:item=2499720827&perks=
+
+
 // No Reprieve ()
 dimwishlist:item=2531963421&perks=
+
+
+// Blast Furnace ()
+dimwishlist:item=2533990645&perks=
 
 
 // Scatter Signal ()
@@ -425,6 +469,10 @@ dimwishlist:item=2972949637&perks=
 dimwishlist:item=2990047042&perks=
 
 
+// The Recluse ()
+dimwishlist:item=3098328572&perks=
+
+
 // Liminal Vigil ()
 dimwishlist:item=3138208275&perks=
 
@@ -489,6 +537,14 @@ dimwishlist:item=3667553455&perks=
 dimwishlist:item=3738678140&perks=
 
 
+// Luna's Howl ()
+dimwishlist:item=3757612024&perks=
+
+
+// Elsie's Rifle ()
+dimwishlist:item=3851176026&perks=
+
+
 // Mechabre ()
 dimwishlist:item=3871226707&perks=
 
@@ -515,6 +571,10 @@ dimwishlist:item=4038592169&perks=
 
 // The Immortal ()
 dimwishlist:item=4039572196&perks=
+
+
+// The Mountaintop ()
+dimwishlist:item=4043921923&perks=
 
 
 // Explosive Personality ()
